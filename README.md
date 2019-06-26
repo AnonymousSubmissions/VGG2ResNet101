@@ -11,7 +11,7 @@ A [PyTorch](http://pytorch.org/) implementation to test the speed of VGG16 and R
 
 ## Test
 
-- To test the speed of VGG16 and ResNet101
+- To test the speed of VGG16 and ResNet101 on TitanX.
 
 ```
 cd $VGG2ResNet101
