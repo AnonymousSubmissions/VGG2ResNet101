@@ -16,5 +16,4 @@ A [PyTorch](http://pytorch.org/) implementation to test the speed of VGG16 and R
 ```
 cd $VGG2ResNet101
 python demo.py --images ./images
-
 ```
